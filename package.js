@@ -25,7 +25,7 @@ var flags = [
   'st', 'sv', 'sx', 'sy', 'sz', 'tc', 'td', 'tf', 'tg', 'th', 'tj', 'tk', 'tl',
   'tm', 'tn', 'to', 'tr', 'tt', 'tv', 'tw', 'tz', 'ua', 'ug', 'um', 'us', 'uy',
   'uz', 'va', 'vc', 've', 'vg', 'vi', 'vn', 'vu', 'wf', 'ws', 'ye', 'yt', 'za',
-  'zm', 'zw',
+  'zm', 'zw', 'gb-eng', 'gb-nir', 'gb-sct', 'gb-wls',
 ];
 
 var path = Npm.require('path');
